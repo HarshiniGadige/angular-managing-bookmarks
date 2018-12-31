@@ -1,0 +1,13 @@
+.main {
+  background-color: #eee;
+}
+.sidebar {
+  background: #bde;
+}
+.sidebar, .main{
+  float: left;
+  height: 800px
+}
+.gap-horizontal {
+  height: 20px;
+}
